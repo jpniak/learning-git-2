@@ -1,0 +1,5 @@
+Punkt 1)
+autoprefixer-cli -o style.prefixed.css style.css   /* należy to wpisać w katalogu, w którym jest plik style.css albo wskazać położenie pliku style.css - w każdym razie zadziałało */
+
+Punkt 2)
+html-validate index.html /* U mnie był komunikat: Validator crashed when parsing "index.html" - aż tak źle? :-)))))))))))))) */
